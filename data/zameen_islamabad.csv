@@ -1,0 +1,388 @@
+price,area_sqft,city,bedrooms,bathrooms,location,property_type,built_in_year,parking_spaces,servant_quarters,store_rooms,kitchens,drawing_rooms
+17550000,2562.72,Islamabad,4,3,Bahria Town Phase 1,House,,0.0,1,0,1,0.0
+3250000,468.99,Islamabad,1,2,F-11,Apartment,2007.0,0.0,0,0,1,0.0
+15450000,3669.61,Islamabad,6,4,Gulberg Residencia,House,2011.0,3.0,0,1,2,0.0
+17000000,2930.1,Islamabad,5,3,Bahria Town Phase 7,Apartment,2013.0,0.0,0,0,2,0.0
+1850000,946.21,Islamabad,3,3,Chak Shahzad,Lower Portion,2012.0,2.0,0,0,1,
+21150000,5968.45,Islamabad,5,5,B-17,House,2004.0,0.0,0,0,2,1.0
+49950000,7571.82,Islamabad,8,6,G-8,House,2015.0,3.0,0,0,1,1.0
+23900000,4876.5,Islamabad,6,4,Gulberg Residencia,House,,3.0,0,0,1,0.0
+2850000,1017.67,Islamabad,3,3,B-17,Upper Portion,2019.0,0.0,0,2,1,0.0
+4900000,1093.75,Islamabad,4,2,Bahria Town Phase 4,Apartment,2000.0,2.0,1,0,1,0.0
+11400000,5292.12,Islamabad,7,4,Bhara Kahu,House,,0.0,1,1,1,0.0
+1850000,1713.83,Islamabad,4,2,Tarlai,Lower Portion,1995.0,3.0,1,2,1,0.0
+16700000,1829.49,Islamabad,5,5,F-7,Apartment,,1.0,1,2,1,0.0
+40950000,5537.65,Islamabad,6,5,Bahria Town Phase 7,House,,1.0,0,1,1,0.0
+35000000,5808.81,Islamabad,5,4,E-11,House,1992.0,0.0,1,1,2,0.0
+5750000,1800.05,Islamabad,3,2,I-10,Upper Portion,2005.0,3.0,0,0,1,0.0
+27600000,3676.84,Islamabad,6,6,F-6,House,1996.0,2.0,1,0,1,0.0
+23950000,3664.11,Islamabad,6,5,F-10,House,1994.0,0.0,0,2,1,0.0
+1050000,582.73,Islamabad,2,2,Tarlai,Lower Portion,2015.0,0.0,0,0,1,0.0
+24300000,7508.45,Islamabad,9,7,G-11,Farm House,2021.0,2.0,0,0,1,1.0
+10800000,1707.41,Islamabad,3,2,DHA Phase 2,Apartment,,1.0,0,0,1,0.0
+6800000,1399.15,Islamabad,3,4,Bahria Town Phase 4,House,1995.0,2.0,0,1,1,0.0
+15650000,2492.11,Islamabad,4,5,Bahria Town Phase 4,House,2019.0,0.0,0,2,1,0.0
+3150000,744.39,Islamabad,3,2,I-10,Apartment,,1.0,0,0,1,1.0
+3100000,1339.85,Islamabad,3,4,Chak Shahzad,Upper Portion,,0.0,0,0,1,1.0
+40550000,4649.18,Islamabad,6,5,F-7,House,2011.0,2.0,1,1,1,0.0
+1250000,374.95,Islamabad,2,1,Bahria Town Phase 1,Lower Portion,2006.0,1.0,0,0,1,0.0
+2700000,572.52,Islamabad,1,1,I-10,House,2013.0,,0,0,1,0.0
+15150000,3234.89,Islamabad,5,5,G-13,House,2005.0,2.0,1,1,1,0.0
+33250000,16783.12,Islamabad,9,5,Chak Shahzad,Farm House,,3.0,1,2,1,1.0
+6050000,950.32,Islamabad,2,3,F-8,Upper Portion,2019.0,0.0,0,0,1,0.0
+10250000,1436.01,Islamabad,4,2,F-11,Apartment,,3.0,1,2,1,1.0
+20700000,7778.0,Islamabad,7,7,Koral Town,House,2017.0,2.0,1,2,1,1.0
+1750000,832.9,Islamabad,3,2,Bhara Kahu,House,2002.0,0.0,0,0,1,1.0
+2150000,724.03,Islamabad,3,3,B-17,Apartment,2010.0,2.0,0,0,1,
+10350000,1385.78,Islamabad,3,4,F-10,Apartment,2015.0,0.0,0,1,1,1.0
+6650000,1331.32,Islamabad,4,3,F-11,Upper Portion,2003.0,1.0,1,1,1,1.0
+45000000,6992.77,Islamabad,8,6,F-6,Farm House,,0.0,0,1,1,1.0
+3300000,905.53,Islamabad,3,3,G-13,Apartment,1999.0,0.0,0,0,1,0.0
+21150000,6530.82,Islamabad,9,5,PWD Housing Society,House,1997.0,3.0,1,2,2,1.0
+3400000,1158.12,Islamabad,4,2,B-17,Upper Portion,,2.0,1,2,1,1.0
+7350000,2029.55,Islamabad,5,4,Gulberg Residencia,Apartment,2008.0,2.0,0,2,1,0.0
+14500000,1646.04,Islamabad,3,2,F-8,House,,3.0,0,0,1,0.0
+18750000,6273.47,Islamabad,6,7,Margalla Town,House,1990.0,2.0,1,1,1,1.0
+7100000,717.69,Islamabad,3,3,F-11,House,,1.0,0,0,1,0.0
+3900000,2123.8,Islamabad,4,5,Tarlai,Apartment,2019.0,2.0,0,0,2,1.0
+3650000,773.04,Islamabad,3,3,G-10,Lower Portion,,0.0,0,0,1,1.0
+62900000,7679.64,Islamabad,6,5,F-11,House,,0.0,1,0,1,1.0
+4550000,966.71,Islamabad,3,3,Bahria Town Phase 4,Apartment,1997.0,1.0,0,0,1,1.0
+28400000,2839.68,Islamabad,5,4,F-7,House,,1.0,0,1,1,0.0
+22500000,3279.28,Islamabad,7,6,G-10,House,2016.0,0.0,1,1,2,0.0
+6850000,1941.31,Islamabad,5,5,G-14,Upper Portion,,3.0,1,2,1,1.0
+43700000,7509.66,Islamabad,8,8,G-9,House,2019.0,3.0,0,1,2,0.0
+10900000,2437.64,Islamabad,5,5,G-15,House,,0.0,1,0,1,0.0
+14900000,2371.23,Islamabad,5,5,Bahria Town Phase 7,Apartment,,0.0,0,0,2,0.0
+8450000,1630.48,Islamabad,4,3,G-9,Apartment,,2.0,1,1,1,1.0
+9500000,1944.38,Islamabad,4,5,G-6,House,2001.0,3.0,0,2,1,1.0
+850000,803.62,Islamabad,3,2,Rawat,Lower Portion,1998.0,0.0,0,0,1,1.0
+50200000,7013.46,Islamabad,9,5,Bahria Town Phase 4,House,,3.0,1,1,1,0.0
+1500000,493.95,Islamabad,1,2,G-6,Lower Portion,1993.0,1.0,0,0,1,0.0
+48700000,4685.55,Islamabad,6,6,F-6,House,2004.0,3.0,1,1,2,1.0
+8700000,1985.04,Islamabad,4,3,G-9,Apartment,2006.0,1.0,0,2,1,
+50600000,5670.28,Islamabad,6,5,F-8,House,2008.0,3.0,0,0,2,0.0
+8050000,2083.85,Islamabad,5,3,G-13,Apartment,2000.0,2.0,1,1,2,1.0
+4250000,1683.87,Islamabad,3,4,Koral Town,Apartment,2017.0,2.0,0,0,1,0.0
+20650000,2637.34,Islamabad,4,5,F-11,Apartment,,1.0,1,2,2,1.0
+14450000,2050.44,Islamabad,5,3,F-10,Apartment,2016.0,0.0,1,1,2,1.0
+50950000,16830.62,Islamabad,6,6,G-8,Farm House,2006.0,3.0,1,0,2,1.0
+9150000,2018.85,Islamabad,5,5,DHA Phase 2,Apartment,1993.0,1.0,1,1,2,0.0
+15300000,2478.22,Islamabad,4,4,DHA Phase 1,Apartment,2016.0,0.0,1,0,1,1.0
+13350000,5790.59,Islamabad,6,5,Tarlai,House,,1.0,0,2,1,0.0
+4300000,1005.4,Islamabad,4,2,G-8,Upper Portion,2009.0,3.0,1,1,1,1.0
+12000000,1812.92,Islamabad,5,4,G-10,Apartment,,1.0,1,0,1,1.0
+9700000,1498.89,Islamabad,4,3,DHA Phase 2,Upper Portion,,1.0,1,0,1,0.0
+10650000,2661.22,Islamabad,5,3,I-8,Apartment,2019.0,1.0,1,2,1,0.0
+27900000,8755.54,Islamabad,9,5,G-15,Farm House,,3.0,1,2,2,0.0
+23200000,5633.0,Islamabad,6,4,B-17,House,,,1,2,1,1.0
+6250000,717.1,Islamabad,3,2,F-8,House,2013.0,1.0,0,0,1,1.0
+1750000,588.97,Islamabad,1,2,I-10,Upper Portion,2005.0,0.0,0,0,1,0.0
+12850000,1594.88,Islamabad,3,3,F-11,Apartment,,1.0,0,0,1,1.0
+11250000,8085.62,Islamabad,9,7,Koral Town,Farm House,2009.0,3.0,1,0,1,
+21250000,2981.0,Islamabad,5,3,E-11,Apartment,,2.0,0,2,1,1.0
+4150000,1618.76,Islamabad,3,4,Margalla Town,Lower Portion,,1.0,0,2,1,1.0
+4450000,1420.61,Islamabad,3,4,Bahria Town Phase 4,Upper Portion,1992.0,3.0,0,0,1,1.0
+18300000,2713.33,Islamabad,5,3,Bahria Town Phase 7,House,2013.0,2.0,1,1,2,1.0
+6900000,1363.77,Islamabad,3,2,Gulberg Residencia,House,,3.0,0,2,1,1.0
+25050000,2483.44,Islamabad,4,4,F-6,House,2006.0,2.0,0,0,2,0.0
+23050000,8576.11,Islamabad,7,5,B-17,Farm House,2019.0,2.0,1,0,1,0.0
+11200000,4194.68,Islamabad,5,4,Koral Town,House,,3.0,0,2,2,0.0
+5000000,2567.6,Islamabad,5,4,Bhara Kahu,Apartment,2013.0,3.0,1,1,1,1.0
+23500000,9097.46,Islamabad,9,7,I-10,Farm House,1997.0,,0,0,1,0.0
+6600000,1444.43,Islamabad,3,2,PWD Housing Society,House,,1.0,0,0,1,1.0
+4200000,1313.17,Islamabad,4,2,PWD Housing Society,Upper Portion,,,0,0,1,0.0
+2700000,704.48,Islamabad,3,2,DHA Phase 1,Upper Portion,1993.0,3.0,0,0,1,0.0
+8250000,2422.84,Islamabad,4,4,Gulberg Residencia,Apartment,1992.0,2.0,1,0,1,1.0
+4350000,1309.71,Islamabad,4,2,Chak Shahzad,House,,1.0,0,1,1,1.0
+5450000,1166.73,Islamabad,4,2,G-11,Apartment,,1.0,1,0,1,
+6750000,1481.57,Islamabad,3,3,G-10,Apartment,2006.0,1.0,0,2,1,1.0
+3900000,458.49,Islamabad,1,2,F-6,Lower Portion,,1.0,0,0,1,0.0
+50850000,7052.06,Islamabad,9,5,Bahria Town Phase 4,House,,2.0,0,2,1,0.0
+8700000,1311.64,Islamabad,4,2,Bahria Town Phase 1,House,,3.0,1,2,1,0.0
+7550000,2203.03,Islamabad,4,3,B-17,Apartment,2009.0,2.0,0,0,2,0.0
+3200000,479.71,Islamabad,1,2,F-8,Apartment,2011.0,1.0,0,0,1,0.0
+4800000,1264.91,Islamabad,3,2,Bahria Town Phase 7,Upper Portion,1993.0,2.0,0,1,1,1.0
+10850000,2548.75,Islamabad,4,4,G-15,House,2008.0,3.0,1,1,1,0.0
+2400000,419.99,Islamabad,2,1,G-11,Apartment,,1.0,0,0,1,0.0
+29300000,6102.61,Islamabad,7,6,G-9,House,2004.0,,0,2,1,1.0
+93000000,17655.87,Islamabad,9,8,DHA Phase 1,Farm House,,0.0,1,1,1,1.0
+1150000,449.82,Islamabad,1,1,Margalla Town,Lower Portion,2015.0,1.0,0,0,1,0.0
+1000000,676.67,Islamabad,2,2,Bhara Kahu,Upper Portion,1997.0,0.0,0,0,1,0.0
+10350000,5955.34,Islamabad,7,4,Tarlai,House,1999.0,1.0,1,2,1,0.0
+4200000,1606.28,Islamabad,4,4,Koral Town,Apartment,,2.0,1,2,1,1.0
+33650000,3816.56,Islamabad,6,5,F-8,House,2012.0,2.0,1,0,1,1.0
+24850000,6981.88,Islamabad,6,7,Margalla Town,House,2014.0,0.0,1,2,1,1.0
+11350000,2890.08,Islamabad,5,3,B-17,Apartment,,0.0,1,0,1,
+43500000,11909.17,Islamabad,7,7,Bahria Town Phase 7,Farm House,2008.0,2.0,1,0,2,0.0
+8150000,1405.07,Islamabad,4,4,G-9,Apartment,,1.0,0,2,1,0.0
+9050000,5420.41,Islamabad,7,5,Tarlai,House,1995.0,3.0,1,1,1,0.0
+15700000,3213.71,Islamabad,6,5,Bahria Town Phase 1,House,2003.0,3.0,0,0,1,
+4050000,1163.07,Islamabad,3,4,G-8,Upper Portion,1998.0,1.0,0,0,1,0.0
+4150000,1675.37,Islamabad,3,4,Margalla Town,Upper Portion,2016.0,1.0,0,1,1,1.0
+2900000,697.81,Islamabad,2,3,Gulberg Residencia,Upper Portion,,0.0,0,0,1,0.0
+73500000,19735.48,Islamabad,9,7,G-11,Farm House,,3.0,1,0,1,
+10900000,1365.15,Islamabad,3,4,DHA Phase 2,Apartment,,2.0,0,0,1,0.0
+2300000,550.49,Islamabad,2,1,G-8,Lower Portion,,1.0,0,0,1,0.0
+11550000,10053.25,Islamabad,9,7,Bhara Kahu,Farm House,1995.0,0.0,0,0,2,0.0
+49800000,6723.21,Islamabad,7,8,F-8,House,1990.0,0.0,0,0,2,0.0
+5250000,1413.86,Islamabad,3,3,PWD Housing Society,House,2019.0,3.0,0,2,1,0.0
+6550000,2268.22,Islamabad,5,4,B-17,Apartment,,3.0,0,2,1,1.0
+15150000,1719.05,Islamabad,3,3,F-6,Apartment,,3.0,0,1,1,1.0
+4300000,1006.7,Islamabad,3,4,Gulberg Residencia,House,1996.0,2.0,0,0,1,0.0
+35950000,5320.97,Islamabad,7,5,G-10,House,,1.0,1,0,2,0.0
+13050000,1996.02,Islamabad,4,4,G-8,House,,3.0,0,2,1,0.0
+1500000,381.27,Islamabad,2,2,G-8,Lower Portion,2013.0,1.0,0,0,1,0.0
+3700000,957.3,Islamabad,2,3,Gulberg Residencia,Lower Portion,2013.0,,0,0,1,0.0
+21650000,3683.75,Islamabad,6,6,G-8,House,,,0,0,2,1.0
+7000000,1507.9,Islamabad,4,3,G-9,Apartment,2012.0,3.0,0,0,1,0.0
+18200000,4348.15,Islamabad,7,6,Bahria Town Phase 4,House,1991.0,3.0,0,0,1,1.0
+12400000,3550.55,Islamabad,5,6,G-10,Farm House,2013.0,0.0,1,2,2,
+44200000,7703.9,Islamabad,6,7,G-9,House,2023.0,0.0,0,1,2,0.0
+11200000,7373.59,Islamabad,9,6,Rawat,House,1994.0,3.0,1,2,2,1.0
+8300000,1154.94,Islamabad,4,2,Bahria Town Phase 7,Apartment,,1.0,1,2,1,
+14950000,1541.58,Islamabad,4,2,F-7,House,2013.0,1.0,1,0,1,0.0
+47800000,15220.78,Islamabad,9,8,G-9,Farm House,,2.0,1,1,2,1.0
+7250000,1237.22,Islamabad,3,2,F-7,Lower Portion,1993.0,1.0,0,1,1,0.0
+30200000,6832.99,Islamabad,8,5,F-8,Farm House,,2.0,1,0,1,0.0
+13000000,2745.2,Islamabad,5,5,F-10,Apartment,1991.0,2.0,1,2,2,0.0
+4000000,1153.15,Islamabad,4,3,G-15,Apartment,2015.0,0.0,1,0,1,1.0
+5700000,1284.5,Islamabad,3,3,G-13,Apartment,,2.0,0,1,1,0.0
+2750000,676.08,Islamabad,2,3,Gulberg Residencia,Apartment,2018.0,0.0,0,0,1,0.0
+101100000,17690.79,Islamabad,9,6,DHA Phase 2,Farm House,,2.0,1,2,2,0.0
+6550000,1738.28,Islamabad,4,3,Gulberg Residencia,Apartment,1995.0,3.0,1,0,1,1.0
+30850000,4981.39,Islamabad,7,6,DHA Phase 2,House,1990.0,3.0,0,1,2,1.0
+21950000,4777.11,Islamabad,5,5,G-10,House,1994.0,3.0,1,1,1,0.0
+12950000,6461.73,Islamabad,8,7,Rawat,House,,3.0,1,0,1,0.0
+5550000,1182.87,Islamabad,3,4,Bahria Town Phase 7,Upper Portion,,2.0,0,0,1,1.0
+1150000,808.7,Islamabad,3,3,Rawat,Upper Portion,,0.0,0,0,1,1.0
+22600000,3624.05,Islamabad,6,6,G-9,House,,3.0,0,2,1,0.0
+29050000,5217.69,Islamabad,7,5,E-11,House,2005.0,0.0,0,1,2,1.0
+13250000,1466.98,Islamabad,4,4,F-8,Apartment,,1.0,1,2,1,1.0
+8850000,1798.87,Islamabad,4,4,I-8,House,2006.0,1.0,1,1,1,1.0
+39900000,8059.45,Islamabad,8,6,F-11,Farm House,2021.0,2.0,1,2,2,1.0
+14150000,1387.2,Islamabad,4,3,F-7,Apartment,,2.0,0,2,1,0.0
+15450000,2423.33,Islamabad,5,3,G-10,House,2007.0,2.0,0,2,1,0.0
+3750000,683.64,Islamabad,2,2,DHA Phase 2,Lower Portion,2011.0,0.0,0,0,1,0.0
+51600000,7733.89,Islamabad,7,8,Bahria Town Phase 4,House,2020.0,1.0,1,1,2,
+1850000,452.08,Islamabad,1,1,Bahria Town Phase 1,Lower Portion,,0.0,0,0,1,0.0
+23150000,6771.52,Islamabad,9,6,Koral Town,House,,2.0,1,0,2,0.0
+8000000,3907.62,Islamabad,7,6,Tarlai,House,,3.0,0,0,2,0.0
+12400000,2268.36,Islamabad,4,5,Bahria Town Phase 7,Apartment,2008.0,1.0,0,2,2,1.0
+22100000,5519.42,Islamabad,5,4,I-8,House,2005.0,3.0,0,1,2,1.0
+5300000,1080.04,Islamabad,4,4,E-11,Apartment,,1.0,1,2,1,1.0
+12450000,2845.65,Islamabad,5,5,Bahria Town Phase 4,Apartment,1998.0,3.0,1,2,2,1.0
+5950000,1587.5,Islamabad,3,2,Bahria Town Phase 7,Lower Portion,1995.0,2.0,0,0,1,0.0
+12050000,1714.27,Islamabad,3,2,DHA Phase 2,Apartment,2023.0,1.0,0,2,1,1.0
+24700000,2502.6,Islamabad,5,3,F-6,Apartment,2019.0,3.0,1,1,1,1.0
+10600000,2134.26,Islamabad,4,3,G-6,House,1994.0,0.0,1,0,2,
+9500000,1515.72,Islamabad,4,3,G-8,House,,,0,2,1,0.0
+10500000,1838.55,Islamabad,5,5,Bahria Town Phase 1,House,2004.0,0.0,1,1,1,1.0
+1850000,720.77,Islamabad,3,2,I-8,Lower Portion,1997.0,3.0,0,0,1,0.0
+22100000,4954.58,Islamabad,6,6,G-6,House,1993.0,0.0,1,0,1,0.0
+36000000,6980.75,Islamabad,8,7,F-8,Farm House,1999.0,1.0,1,1,1,0.0
+16600000,4217.16,Islamabad,6,6,B-17,House,2023.0,3.0,1,1,2,0.0
+13050000,2608.29,Islamabad,5,5,Gulberg Residencia,Apartment,2019.0,,1,2,1,1.0
+25300000,5350.29,Islamabad,6,5,G-6,House,2002.0,3.0,1,2,1,0.0
+8350000,1531.32,Islamabad,3,3,F-10,Upper Portion,2011.0,0.0,0,0,1,
+18350000,7996.79,Islamabad,9,6,Koral Town,House,2003.0,1.0,1,1,2,1.0
+13250000,2461.71,Islamabad,5,4,I-10,House,2020.0,2.0,1,1,2,1.0
+8000000,1560.13,Islamabad,3,3,DHA Phase 2,Lower Portion,2016.0,1.0,0,1,1,0.0
+4950000,1148.81,Islamabad,4,3,G-11,Lower Portion,,3.0,1,2,1,1.0
+5950000,1130.14,Islamabad,3,4,F-10,Upper Portion,1994.0,0.0,0,0,1,1.0
+4500000,576.72,Islamabad,1,1,F-8,Apartment,2019.0,1.0,0,0,1,0.0
+24500000,4491.59,Islamabad,6,4,Bahria Town Phase 1,House,2007.0,2.0,0,2,2,0.0
+14550000,1616.73,Islamabad,3,4,F-7,House,2012.0,3.0,0,0,1,1.0
+1950000,1032.34,Islamabad,3,3,Koral Town,Apartment,1995.0,0.0,0,0,1,1.0
+2800000,545.9,Islamabad,1,1,G-11,Apartment,2017.0,1.0,0,0,1,0.0
+1500000,462.12,Islamabad,1,1,I-10,Lower Portion,2020.0,0.0,0,0,1,0.0
+23550000,4572.73,Islamabad,7,4,Bahria Town Phase 4,House,2010.0,1.0,1,2,2,
+9850000,1873.41,Islamabad,5,5,G-8,Apartment,,1.0,1,2,1,0.0
+12950000,3912.84,Islamabad,6,4,I-8,Farm House,,3.0,1,1,1,1.0
+3000000,993.16,Islamabad,3,3,PWD Housing Society,Apartment,2014.0,2.0,0,0,1,0.0
+9750000,1656.66,Islamabad,3,4,Bahria Town Phase 7,House,2013.0,0.0,0,1,1,1.0
+9700000,1493.8,Islamabad,3,3,G-10,House,2022.0,0.0,0,0,1,1.0
+10500000,2439.54,Islamabad,5,3,I-10,Apartment,2014.0,1.0,1,0,2,0.0
+36300000,4198.43,Islamabad,5,4,F-8,House,2016.0,0.0,0,0,2,0.0
+2650000,550.76,Islamabad,2,2,G-14,House,,1.0,0,0,1,0.0
+25850000,6676.51,Islamabad,7,7,G-14,House,2002.0,1.0,1,1,2,1.0
+1050000,854.01,Islamabad,3,3,Rawat,Upper Portion,2002.0,1.0,0,0,1,0.0
+5000000,2241.75,Islamabad,5,4,Koral Town,Apartment,,3.0,1,0,2,0.0
+25300000,3673.46,Islamabad,6,4,G-6,House,2020.0,3.0,1,1,1,0.0
+5350000,1323.02,Islamabad,3,4,PWD Housing Society,Apartment,,3.0,0,1,1,1.0
+24450000,2165.01,Islamabad,4,4,F-7,House,2019.0,1.0,0,0,2,0.0
+14950000,4459.53,Islamabad,7,4,G-8,Farm House,2011.0,1.0,1,1,2,0.0
+4600000,1229.16,Islamabad,4,2,G-14,Apartment,,2.0,1,2,1,0.0
+1800000,1177.19,Islamabad,3,3,Tarlai,Upper Portion,2019.0,3.0,0,2,1,
+8850000,1428.51,Islamabad,3,3,F-10,Apartment,2014.0,1.0,0,0,1,1.0
+1200000,406.36,Islamabad,1,1,Gulberg Residencia,Upper Portion,2002.0,1.0,0,0,1,0.0
+16200000,2911.38,Islamabad,5,5,Bahria Town Phase 4,Apartment,2015.0,2.0,0,1,1,1.0
+3000000,2147.49,Islamabad,5,3,Tarlai,Apartment,1997.0,1.0,1,1,1,1.0
+6300000,1797.19,Islamabad,3,4,G-13,Apartment,2008.0,,0,1,1,0.0
+23650000,11238.35,Islamabad,7,8,Chak Shahzad,Farm House,,3.0,1,1,2,1.0
+2850000,731.46,Islamabad,2,3,G-15,House,2004.0,0.0,0,0,1,0.0
+6250000,2408.62,Islamabad,5,5,PWD Housing Society,Apartment,1997.0,2.0,1,0,2,0.0
+12700000,6725.53,Islamabad,7,7,Rawat,House,,2.0,0,0,2,0.0
+23800000,6580.27,Islamabad,8,8,PWD Housing Society,House,1998.0,1.0,1,2,2,1.0
+70450000,7842.5,Islamabad,8,7,E-11,House,2022.0,0.0,0,1,1,1.0
+21500000,6995.59,Islamabad,7,6,Bhara Kahu,House,,3.0,1,2,2,1.0
+35200000,6459.49,Islamabad,6,6,G-11,House,2007.0,2.0,1,1,2,0.0
+1000000,458.34,Islamabad,2,2,Bhara Kahu,Lower Portion,,1.0,0,0,1,0.0
+17900000,2088.89,Islamabad,5,4,F-11,House,,1.0,1,1,2,0.0
+16700000,2575.43,Islamabad,4,3,DHA Phase 2,Apartment,,,0,1,1,0.0
+14200000,7058.18,Islamabad,8,5,Bhara Kahu,House,2006.0,1.0,0,2,2,0.0
+5350000,1213.88,Islamabad,3,3,G-13,House,2004.0,3.0,0,0,1,0.0
+6250000,1979.86,Islamabad,5,5,Bahria Town Phase 4,Upper Portion,1994.0,0.0,1,0,1,0.0
+1550000,533.12,Islamabad,1,1,G-9,Lower Portion,1990.0,0.0,0,0,1,0.0
+5000000,1367.74,Islamabad,3,3,G-14,Upper Portion,2018.0,0.0,0,0,1,0.0
+6050000,1398.48,Islamabad,4,3,Gulberg Residencia,Apartment,,0.0,0,2,1,1.0
+8850000,2604.52,Islamabad,5,3,PWD Housing Society,Apartment,,3.0,0,0,1,1.0
+27950000,5285.62,Islamabad,5,6,G-11,House,,2.0,1,0,2,1.0
+8450000,2383.09,Islamabad,4,3,G-10,Apartment,1990.0,0.0,1,1,2,1.0
+19550000,5304.03,Islamabad,7,6,G-13,House,1995.0,1.0,1,0,2,1.0
+5550000,1404.73,Islamabad,3,3,E-11,Upper Portion,2005.0,0.0,0,1,1,0.0
+4000000,1204.15,Islamabad,3,2,G-14,Apartment,1998.0,1.0,0,1,1,1.0
+5500000,1525.3,Islamabad,3,3,I-8,Upper Portion,2007.0,0.0,0,0,1,1.0
+3000000,979.04,Islamabad,2,3,Margalla Town,House,,2.0,0,0,1,0.0
+50900000,6299.97,Islamabad,6,5,F-10,House,,0.0,0,1,2,1.0
+20500000,7702.57,Islamabad,6,7,Tarlai,House,,3.0,0,0,2,1.0
+19350000,3296.06,Islamabad,7,6,G-8,House,,0.0,1,0,2,1.0
+4400000,1147.89,Islamabad,4,2,PWD Housing Society,House,2008.0,,1,0,1,1.0
+58550000,19962.38,Islamabad,7,6,G-11,Farm House,2016.0,2.0,1,2,1,1.0
+15750000,2607.42,Islamabad,5,3,DHA Phase 1,Apartment,2005.0,0.0,1,0,2,0.0
+42300000,6841.28,Islamabad,9,7,DHA Phase 2,House,1995.0,1.0,1,1,1,0.0
+20400000,7025.12,Islamabad,8,7,G-14,Farm House,,2.0,0,1,1,0.0
+17500000,6276.1,Islamabad,6,5,Koral Town,House,2018.0,3.0,0,1,1,
+5200000,1399.35,Islamabad,3,4,G-9,House,1992.0,2.0,0,0,1,0.0
+29000000,9736.16,Islamabad,6,7,Bahria Town Phase 7,Farm House,2001.0,3.0,1,2,1,0.0
+2150000,537.65,Islamabad,1,1,G-14,Upper Portion,,0.0,0,0,1,0.0
+49500000,5647.14,Islamabad,7,4,F-10,House,2006.0,0.0,0,0,1,1.0
+22550000,6854.57,Islamabad,8,5,Margalla Town,House,2019.0,3.0,1,1,2,0.0
+12600000,3154.57,Islamabad,5,5,G-11,House,1999.0,1.0,1,1,2,
+13100000,1529.27,Islamabad,3,4,DHA Phase 2,House,,,0,1,1,1.0
+1900000,884.86,Islamabad,3,3,G-15,Upper Portion,1991.0,1.0,0,0,1,0.0
+900000,399.61,Islamabad,2,2,Bhara Kahu,Upper Portion,,0.0,0,0,1,0.0
+8800000,1092.97,Islamabad,3,2,F-7,Apartment,2014.0,1.0,0,0,1,0.0
+9450000,1485.97,Islamabad,3,4,E-11,Upper Portion,,1.0,0,2,1,0.0
+2950000,1949.66,Islamabad,5,3,Chak Shahzad,Upper Portion,1995.0,1.0,0,1,1,0.0
+9500000,2496.76,Islamabad,5,5,G-9,Apartment,2010.0,1.0,1,0,1,1.0
+17400000,7564.42,Islamabad,9,5,Koral Town,House,2010.0,1.0,1,1,2,1.0
+62550000,14790.53,Islamabad,8,6,F-10,Farm House,2001.0,2.0,0,2,1,1.0
+2600000,1264.72,Islamabad,3,4,Chak Shahzad,Upper Portion,2004.0,0.0,0,1,1,0.0
+14500000,3101.08,Islamabad,6,4,G-9,House,1995.0,2.0,1,1,1,
+47050000,6402.65,Islamabad,6,5,Bahria Town Phase 4,House,2016.0,3.0,1,1,2,1.0
+15800000,2646.53,Islamabad,4,3,F-7,Apartment,1992.0,2.0,0,0,1,1.0
+58000000,5989.89,Islamabad,7,4,F-10,House,2020.0,3.0,1,0,2,0.0
+51950000,7807.99,Islamabad,9,7,DHA Phase 2,House,2009.0,0.0,0,2,2,0.0
+7000000,1157.21,Islamabad,4,2,DHA Phase 2,House,2003.0,2.0,1,1,1,0.0
+20400000,4168.23,Islamabad,7,5,G-9,House,2014.0,3.0,0,1,1,1.0
+35600000,6778.09,Islamabad,6,5,G-14,House,,0.0,1,2,2,0.0
+6050000,1691.29,Islamabad,4,4,I-10,Lower Portion,2020.0,1.0,1,0,1,1.0
+2000000,1153.57,Islamabad,3,2,Tarlai,Upper Portion,,1.0,0,0,1,0.0
+90350000,7912.1,Islamabad,9,6,F-7,House,,2.0,0,2,1,0.0
+13100000,2945.95,Islamabad,5,5,G-11,House,1990.0,3.0,0,0,1,0.0
+1300000,662.58,Islamabad,3,3,Tarlai,Apartment,,3.0,0,0,1,1.0
+12350000,1578.9,Islamabad,4,2,DHA Phase 2,House,2011.0,0.0,1,1,1,1.0
+5400000,815.19,Islamabad,3,3,DHA Phase 1,Upper Portion,,1.0,0,0,1,0.0
+7000000,1615.85,Islamabad,4,3,G-9,Upper Portion,,0.0,0,0,1,1.0
+5950000,1774.22,Islamabad,3,4,Gulberg Residencia,Upper Portion,,3.0,0,0,1,0.0
+3300000,641.24,Islamabad,2,2,F-10,Lower Portion,1993.0,2.0,0,0,1,
+39900000,3981.64,Islamabad,6,6,F-10,House,,1.0,0,2,2,0.0
+4350000,1833.47,Islamabad,5,3,Koral Town,Apartment,,0.0,0,1,1,
+18200000,2908.79,Islamabad,4,5,F-8,Apartment,,3.0,1,2,1,1.0
+3750000,1962.97,Islamabad,4,3,Tarlai,Apartment,,2.0,1,1,1,1.0
+15600000,2766.09,Islamabad,5,5,G-14,House,2022.0,2.0,1,2,2,1.0
+5850000,1274.34,Islamabad,4,4,Bahria Town Phase 4,Apartment,2007.0,2.0,0,2,1,0.0
+2550000,1664.02,Islamabad,4,4,Bhara Kahu,Upper Portion,1998.0,3.0,1,1,1,1.0
+4550000,1291.14,Islamabad,3,3,G-13,Upper Portion,,3.0,0,2,1,1.0
+5550000,1729.09,Islamabad,3,3,I-8,Lower Portion,1998.0,1.0,0,2,1,1.0
+13400000,2174.96,Islamabad,5,4,Bahria Town Phase 1,House,,2.0,1,1,1,1.0
+13800000,1908.81,Islamabad,4,4,DHA Phase 2,Apartment,,3.0,1,1,1,0.0
+24850000,7942.61,Islamabad,8,8,Bhara Kahu,House,,3.0,0,2,1,0.0
+3000000,859.74,Islamabad,2,2,G-15,Apartment,2003.0,0.0,0,0,1,0.0
+46150000,6389.08,Islamabad,6,5,E-11,House,2017.0,3.0,0,0,1,1.0
+2500000,1586.64,Islamabad,3,2,Koral Town,Lower Portion,2005.0,2.0,0,1,1,0.0
+9250000,1195.9,Islamabad,3,2,F-7,Apartment,2008.0,2.0,0,1,1,0.0
+4900000,910.73,Islamabad,2,2,G-10,Lower Portion,,1.0,0,0,1,0.0
+47850000,7886.6,Islamabad,7,5,DHA Phase 1,House,2000.0,0.0,0,2,2,0.0
+9500000,1310.85,Islamabad,3,2,E-11,House,2016.0,0.0,0,2,1,1.0
+20700000,5713.94,Islamabad,7,4,G-15,House,1996.0,2.0,1,2,1,1.0
+16950000,5890.75,Islamabad,5,5,Margalla Town,House,1996.0,1.0,1,2,1,1.0
+5450000,795.54,Islamabad,3,2,Bahria Town Phase 7,House,2020.0,0.0,0,0,1,0.0
+9150000,1719.89,Islamabad,4,2,Bahria Town Phase 4,Lower Portion,,0.0,1,0,1,1.0
+13900000,2940.96,Islamabad,5,4,Bahria Town Phase 1,Apartment,2001.0,2.0,0,2,2,1.0
+35700000,6186.53,Islamabad,6,5,Gulberg Residencia,House,,1.0,0,1,2,
+8000000,1353.74,Islamabad,4,3,G-11,House,2014.0,3.0,1,2,1,
+5400000,552.48,Islamabad,1,1,F-7,Apartment,2020.0,1.0,0,0,1,0.0
+32350000,3189.49,Islamabad,5,6,F-10,House,,1.0,1,1,1,1.0
+27250000,5412.3,Islamabad,5,6,G-14,House,,1.0,1,2,2,0.0
+4400000,1119.28,Islamabad,4,2,G-13,Upper Portion,,0.0,0,0,1,1.0
+750000,427.27,Islamabad,2,2,Chak Shahzad,Lower Portion,2007.0,0.0,0,0,1,0.0
+28400000,6628.27,Islamabad,6,6,I-10,House,2018.0,3.0,1,0,2,0.0
+58600000,4678.48,Islamabad,5,4,F-7,House,,2.0,1,2,1,1.0
+2800000,907.06,Islamabad,2,3,Koral Town,House,2020.0,1.0,0,0,1,0.0
+39600000,6194.9,Islamabad,7,5,Bahria Town Phase 7,House,2008.0,2.0,1,0,1,1.0
+7400000,1526.65,Islamabad,3,3,F-8,Upper Portion,2002.0,3.0,0,0,1,1.0
+13350000,3034.5,Islamabad,6,4,Margalla Town,House,,0.0,1,1,2,0.0
+19600000,6021.6,Islamabad,9,8,Koral Town,House,,1.0,1,0,1,0.0
+15950000,2695.01,Islamabad,5,4,G-11,Apartment,,1.0,0,1,2,1.0
+18350000,5018.93,Islamabad,7,6,Margalla Town,House,2010.0,1.0,0,2,2,1.0
+13300000,5827.97,Islamabad,5,6,Tarlai,House,2010.0,2.0,1,2,2,1.0
+1200000,595.78,Islamabad,1,1,Bhara Kahu,House,1993.0,0.0,0,0,1,0.0
+9500000,1972.01,Islamabad,5,3,G-8,Upper Portion,,2.0,0,2,1,0.0
+9600000,2001.88,Islamabad,4,5,G-10,Apartment,2014.0,2.0,1,0,2,1.0
+5150000,1464.75,Islamabad,3,2,G-13,Upper Portion,,3.0,0,0,1,1.0
+5850000,1968.81,Islamabad,4,4,Gulberg Residencia,Apartment,1994.0,1.0,1,0,1,1.0
+17950000,2481.8,Islamabad,4,5,DHA Phase 2,House,,3.0,1,0,1,0.0
+5200000,2411.52,Islamabad,5,4,Tarlai,Apartment,,0.0,1,1,1,0.0
+1900000,570.93,Islamabad,2,1,I-8,Upper Portion,2003.0,1.0,0,0,1,0.0
+36150000,6144.92,Islamabad,9,5,G-10,House,2012.0,1.0,1,2,2,1.0
+15750000,9559.89,Islamabad,8,5,Tarlai,Farm House,,2.0,1,2,2,1.0
+2550000,627.27,Islamabad,2,2,DHA Phase 2,Lower Portion,1990.0,0.0,0,0,1,0.0
+8400000,1770.42,Islamabad,4,2,Bahria Town Phase 4,Upper Portion,2017.0,0.0,1,0,1,0.0
+5900000,1156.41,Islamabad,3,2,G-14,House,,1.0,0,1,1,1.0
+5550000,1525.87,Islamabad,3,3,G-11,Apartment,1990.0,0.0,0,2,1,0.0
+52600000,7460.36,Islamabad,6,6,Bahria Town Phase 7,House,,0.0,0,1,2,1.0
+7300000,1672.43,Islamabad,3,2,Margalla Town,House,,2.0,0,2,1,0.0
+5900000,1941.12,Islamabad,5,3,G-8,Lower Portion,1999.0,0.0,1,1,1,0.0
+6750000,1836.03,Islamabad,5,3,G-9,Upper Portion,2022.0,1.0,0,1,1,0.0
+11500000,1874.96,Islamabad,4,5,F-7,Apartment,,0.0,0,0,1,1.0
+13000000,5534.72,Islamabad,5,4,Koral Town,House,1994.0,2.0,1,1,2,0.0
+13150000,2872.5,Islamabad,5,3,I-10,House,2005.0,3.0,0,1,1,1.0
+2550000,1332.73,Islamabad,4,3,Bhara Kahu,Apartment,2001.0,0.0,1,0,1,0.0
+2200000,429.99,Islamabad,1,1,G-6,Lower Portion,,1.0,0,0,1,0.0
+2500000,774.92,Islamabad,3,3,PWD Housing Society,House,1999.0,1.0,0,0,1,1.0
+4400000,635.44,Islamabad,3,2,F-8,Apartment,2000.0,1.0,0,0,1,1.0
+18000000,1871.11,Islamabad,4,5,F-8,Apartment,,0.0,0,1,1,0.0
+7400000,821.06,Islamabad,2,3,DHA Phase 2,House,2019.0,0.0,0,0,1,0.0
+14000000,5778.02,Islamabad,7,6,Rawat,House,,2.0,1,2,1,1.0
+28200000,5400.02,Islamabad,5,6,Bahria Town Phase 1,House,2004.0,2.0,1,1,2,1.0
+20350000,7115.26,Islamabad,9,6,Bhara Kahu,House,2022.0,1.0,0,0,2,0.0
+16950000,2976.69,Islamabad,4,4,Bahria Town Phase 1,House,2020.0,1.0,1,1,1,0.0
+5450000,818.94,Islamabad,2,2,DHA Phase 2,Apartment,2006.0,2.0,0,0,1,0.0
+5200000,1865.37,Islamabad,4,5,Koral Town,Apartment,,0.0,0,2,1,1.0
+17150000,6727.73,Islamabad,7,6,Bhara Kahu,House,2022.0,2.0,1,2,1,0.0
+2950000,624.22,Islamabad,3,2,G-11,House,2001.0,0.0,0,0,1,0.0
+27050000,2745.16,Islamabad,4,5,F-6,Apartment,2023.0,0.0,1,1,1,1.0
+18300000,4917.86,Islamabad,7,6,PWD Housing Society,House,2017.0,3.0,1,0,2,1.0
+35900000,6077.34,Islamabad,6,7,G-6,House,2023.0,1.0,1,1,2,1.0
+49500000,4890.28,Islamabad,6,6,F-7,House,2013.0,3.0,1,1,2,0.0
+5450000,1059.82,Islamabad,4,4,G-11,Apartment,2015.0,0.0,1,1,1,0.0
+16450000,2443.81,Islamabad,4,3,F-7,Apartment,1990.0,1.0,1,2,2,0.0
+8800000,1100.3,Islamabad,3,4,DHA Phase 2,House,2015.0,2.0,0,2,1,0.0
+2700000,1388.5,Islamabad,4,2,Koral Town,Lower Portion,,0.0,1,2,1,0.0
+4300000,1335.32,Islamabad,3,2,B-17,Apartment,2007.0,2.0,0,2,1,1.0
+2850000,615.25,Islamabad,2,2,G-13,House,2012.0,1.0,0,0,1,0.0
+53400000,10730.9,Islamabad,9,5,F-11,Farm House,2016.0,0.0,1,1,1,1.0
+2200000,1277.32,Islamabad,4,3,Bhara Kahu,Upper Portion,2005.0,3.0,1,2,1,0.0
+17650000,3370.05,Islamabad,5,6,G-15,House,,3.0,1,2,1,1.0
+29700000,5552.73,Islamabad,6,4,G-6,House,,2.0,0,2,2,0.0
+6350000,2765.81,Islamabad,5,5,Koral Town,Apartment,2005.0,1.0,0,0,2,0.0
+3700000,1088.66,Islamabad,4,4,PWD Housing Society,House,1992.0,2.0,1,1,1,1.0
+9700000,1493.8,Islamabad,3,3,G-10,House,2022.0,0.0,0,0,1,1.0
+3700000,1088.66,Islamabad,4,4,PWD Housing Society,House,1992.0,2.0,1,1,1,1.0
+29000000,9736.16,Islamabad,6,7,Bahria Town Phase 7,Farm House,2001.0,3.0,1,2,1,0.0
+20400000,4168.23,Islamabad,7,5,G-9,House,2014.0,3.0,0,1,1,1.0
+33250000,16783.12,Islamabad,9,5,Chak Shahzad,Farm House,,3.0,1,2,1,1.0
+16600000,4217.16,Islamabad,6,6,B-17,House,2023.0,3.0,1,1,2,0.0
+3750000,683.64,Islamabad,2,2,DHA Phase 2,Lower Portion,2011.0,0.0,0,0,1,0.0
