@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# ML models and large artifacts
+models/*.pkl
+catboost_info/
+
+# Data
+data/zameen_processed.csv
+
+# Output (auto-generated)
+output/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
