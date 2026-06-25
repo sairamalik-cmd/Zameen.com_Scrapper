@@ -76,4 +76,4 @@ The primary model used is **XGBoost Regressor**, chosen for its highest R² scor
 ---
 
 # 👩‍💻 Author
-**Saira Malik** | FA23-BSE-129 | COMSATS University Islamabad
+**Saira Ahmed** | FA23-BSE-129 | COMSATS University Islamabad
