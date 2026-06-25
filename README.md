@@ -6,6 +6,13 @@ A comprehensive machine learning project to scrape property data from [Zameen.co
 -   **Price Prediction:** Uses a trained XGBoost model to provide accurate price estimates for properties in Islamabad.
 -   **Interactive GUI:** A user-friendly desktop application to perform predictions and trigger data updates.
 -   **Confidence Interval:** Provides a price range (±10%) for every prediction.
+
+### 🖥️ Desktop GUI — Price Predictor
+
+<img width="400" alt="Price Predictor GUI image" src="https://github.com/user-attachments/assets/5d1fd319-f9ee-4996-8978-a3f84e4a60eb" />
+
+---
+
 ## 📂 Project Structure
 ```text
 .
@@ -68,6 +75,13 @@ Six regression algorithms were trained and evaluated on the same dataset:
 | Random Forest | 3,478,812 | 6,854,443 | 0.7829 |
 | Decision Tree | 4,211,342 | 8,750,797 | 0.6461 |
 | Linear Regression | 5,541,378 | 9,309,913 | 0.5995 |
+
+
+<img width="850" alt="Model Performance" src="https://github.com/user-attachments/assets/4c7990a5-2972-4dbe-81e2-130c059b5517" />
+
+<img width="470" alt="XGBoost Actual vs Predicted" src="https://github.com/user-attachments/assets/93e604d7-8dbd-4c2e-aebc-3daedbeccbe8" />
+
+
 
 The primary model used is **XGBoost Regressor**, chosen for its highest R² score of **0.8756**, meaning it explains 87.56% of the variance in house prices across Islamabad localities.
 
