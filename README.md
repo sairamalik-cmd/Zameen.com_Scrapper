@@ -89,5 +89,5 @@ The primary model used is **XGBoost Regressor**, chosen for its highest R² scor
 
 ---
 
-# 👩‍💻 Author
+# Author
 **Saira Ahmed** 
