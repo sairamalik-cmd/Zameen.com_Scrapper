@@ -1,5 +1,5 @@
 # Zameen.com Property Scraper & Price Predictor
-A comprehensive machine learning project to scrape property data from [Zameen.com](https://www.zameen.com) and predict house prices in Islamabad using XGBoost. The project includes a fully integrated GUI for easy interaction.
+A comprehensive machine learning project to scrape property data from [Zameen.com](https://www.zameen.com) and predict house prices in Islamabad using XGBoost. The project also includes a fully integrated GUI for easy interaction.
 ## 🚀 Features
 -   **Web Scraper:** Automated scraping of property listings (Price, Area, Bedrooms, Bathrooms, Location, Features).
 -   **Data Processing:** Cleans and normalizes raw data for machine learning.
